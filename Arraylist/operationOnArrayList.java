@@ -1,4 +1,4 @@
-```java
+
 import java.util.*;
 
 public class operationsOnArraylist {
@@ -47,4 +47,3 @@ public class operationsOnArraylist {
         System.out.println(list.contains(5));
     }
 }
-```
